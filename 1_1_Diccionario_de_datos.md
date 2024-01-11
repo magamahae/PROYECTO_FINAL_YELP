@@ -52,11 +52,11 @@
 
 ## Reviews Yelp
 
-- **id_review:** STRING, identificador único de la review (reseña).
+- **id_review:** INTEGER, identificador único de la review (reseña).
 
 - **user_id:** STRING, identificador único del usuario que realizó la review (reseña).
 
-- **id_business:** STRING, identificador único del negocio al que se refiere la review (reseña).
+- **id_business:** INTEGER, identificador único del negocio al que se refiere la review (reseña).
 
 - **stars:** INTEGER, calificación o puntuación asignada al negocio.
 
@@ -90,13 +90,13 @@
 
 ## Reviews Google
 
-- **user_id:** STRING, identificador único del usuario que realizó la review (reseña).
+- **user_id:** FLOAT, identificador único del usuario que realizó la review (reseña).
 
 - **name:** STRING, nombre del negocio.
 
-- **rating:** STRING, Calificación proporcionada por el usuario.
+- **rating:** FLOAT, Calificación proporcionada por el usuario.
 
-- **text:** INTEGER, Comentario o texto asociado a la calificación.
+- **text:** STRING, Comentario o texto asociado a la calificación.
 
 - **gmap_id:** STRING, ID de Google Maps asociado al lugar.
 
