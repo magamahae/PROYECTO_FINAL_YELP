@@ -7,8 +7,6 @@
 # <center>  DICCIONARIO DE DATOS
 ---
 
-## Indice
-
 ## Índice
 - <!-- omit in toc -->
   - [Google Maps](#google-maps)
