@@ -6,7 +6,7 @@
 ---
 
 ## **Tabla de contenidos**
-- <!-- omit in toc -->
+
 - [Quienes Somos](#quienes-somos)
 - [Nuestro Equipo](#nuestro-equipo)
 - [Descripción del Proyecto](#descripción-del-proyecto)
