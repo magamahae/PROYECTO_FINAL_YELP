@@ -64,6 +64,7 @@ Estos estados son:
 - New York
 - Texas 
 - Florida
+  
  Esta elección se fundamenta en un análisis exhaustivo llevado a cabo mediante la exploración de diversas páginas web y la aplicación de técnicas de web scraping.
 
 <p align="center"><img src="img\alcance.png"></p>
