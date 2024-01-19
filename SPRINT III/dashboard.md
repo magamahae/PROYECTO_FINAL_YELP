@@ -1,4 +1,4 @@
-<center><img src="img/logo.jpg" alt="Data Warehouse Process"></center>
+<center><img src="img/logo.jpg" alt="Dashboard"></center>
 
 ----
 
