@@ -23,8 +23,7 @@ Los gráficos cinco y seis ofrecen una perspectiva detallada de las valoraciones
 KPIs:
 Como Indicadores Clave de Rendimiento (KPIs), nos centramos en el porcentaje de aprobación de clientes, el crecimiento de revisiones y la evolución del índice de valoración promedio. Aunque excluimos los años 2020 y 2021 debido a la influencia de la pandemia, observamos que en el año 2019 se cumplieron las metas establecidas. Este análisis refleja un crecimiento constante en la satisfacción del cliente y la calidad de las revisiones a lo largo del tiempo.
 
-Al considerar el último año evaluado, evidenciamos que las tendencias positivas persisten, indicando mejoras continuas en la satisfacción del cliente y la percepción general de los usuarios. Con esta comprensión profunda de nuestros datos, ahora damos paso a nuestros científicos de datos para explicar cómo nuestro modelo de machine learning potencia nuestras recomendaciones.
-
+Al considerar el último año evaluado, evidenciamos que las tendencias positivas persisten, indicando mejoras continuas en la satisfacción del cliente y la percepción general de los usuarios. 
 </br>
 
 <p align=center><img src="img/Dashboard.JPG" alt="Dashboard"></p>
