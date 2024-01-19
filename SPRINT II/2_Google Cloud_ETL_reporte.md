@@ -121,7 +121,7 @@ Algunas ventajas específicas de este pipeline incluyen:
 ----
 ## Video a demostracion sobre la utilizacion y funcionamiento de Google Cloud Plataform
 
-- [!][Video](https://www.youtube.com/watch?v=x3LRqdlpB9U&t=55s)
+- [Video](https://www.youtube.com/watch?v=x3LRqdlpB9U&t=55s)
 ----
 
 ## Tecnologías Utilizadas
