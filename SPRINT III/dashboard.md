@@ -32,7 +32,7 @@ Al considerar el último año evaluado, evidenciamos que las tendencias positiva
 <center>Imagen ilustrativa de nuestro Dashboard</center>
 
 
-<p align=center><img src="img/kpis.JPG" alt="Dashboard"></p>
+<p align=center><img src="img/kpis.JPG" alt="Kpis"></p>
 
 <center>Imagen ilustrativa de nuestros Kpis</center>
 
