@@ -37,9 +37,9 @@ En Quanticore, nos destacamos por ofrecer soluciones tecnológicas de vanguardia
 
 ## **Nuestro Equipo**
 
-- [CÁCERES, Juan Patricio](https://github.com/Sanosuke298), Data Scientis
+- [CÁCERES, Juan Patricio](https://github.com/Sanosuke298), Data Scientist
 - [GARCIA, Robertino](https://github.com/RobertinoS), Data Engineer
-- [LOPEZ, Stiven](https://github.com/StivenLopez712), Data Scientis
+- [LOPEZ, Stiven](https://github.com/StivenLopez712), Data Scientist
 - [MARTINEZ, Gabriela](https://github.com/magamahae), Data Engineer
 - [RENGIFO, Aylin](https://github.com/AylinRengifo), Data Analytics
 
