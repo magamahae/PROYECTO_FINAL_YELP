@@ -1,6 +1,3 @@
-<center><img src="img/logo.jpg" alt="Dashboard"></center>
-
-----
 
 <br>
 
