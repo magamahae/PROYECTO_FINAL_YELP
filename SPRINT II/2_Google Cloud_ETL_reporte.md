@@ -24,6 +24,7 @@ En nuestro proyecto, hemos diseñado un proceso eficiente para organizar y proce
   - [Data Lake](#data-lake)
   - [Cloud Functions](#cloud-functions)
   - [Data Warehouse](#data-warehouse)
+  - [Modelo ER](#modelo-er)
   - [Ventajas](#ventajas)
   - [Tecnologías Utilizadas](#tecnologías-utilizadas)
   - [Autores](#autores)
@@ -82,6 +83,29 @@ Mediante Google SQL podremos realizar nuestras propias consultas. El equipo de D
 
 <p align=center><img src="img/Big_Query.png" alt="Data Warehouse"></p>
 <center>Imagen ilustrativa de nuestra BigQuery</center>
+
+----
+
+## Modelo ER
+
+# Modelo Entidad-Relación (MER): Jerárquico Simple
+Nuestro modelo de relaciones adopta una estructura jerárquica simple, donde se establece una relación directa entre dos entidades principales: Business (Negocio - Padre) y Reviews (Reseñas - Hijo).
+<p align=center><img src="img/relacion.png" a></p>
+
+Descripción del Modelo:
+Business (Negocio - Padre):
+
+Representa la entidad principal que actúa como el "padre" en nuestra jerarquía.
+Contiene información detallada sobre los negocios, como la ubicación, categorías y atributos específicos del negocio.
+Reviews (Reseñas - Hijo):
+
+Representa la entidad secundaria que está vinculada directamente con la entidad Business.
+Contiene reseñas asociadas a un negocio específico.
+Se establece una relación "uno a muchos" entre Business y Reviews, ya que un negocio puede tener múltiples reseñas.
+Razón para la Clasificación:
+Aunque podríamos considerar la posibilidad de un modelo "Copo de Nieve" debido a la relación "muchos a uno" que existe entre las entidades, hemos optado por describir nuestro modelo como "Jerárquico Simple". Esto se debe a que, en nuestra estructura, la relación entre Business y Reviews es "uno a muchos". En un modelo Copo de Nieve típico, esperaríamos encontrar una entidad intermedia que normalmente representaría atributos compartidos o detalles adicionales sobre las reseñas. Sin embargo, en nuestro caso, la relación es más directa y simple, sin entidades intermedias.
+
+Este modelo jerárquico simple refleja eficazmente la relación de un negocio que puede tener múltiples reseñas asociadas a él.
 
 ----
 
